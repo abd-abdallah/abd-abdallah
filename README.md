@@ -15,7 +15,7 @@
 - 👨‍💻 Extensive coursework in Embedded Systems, C Language, Embedded C, Python.
 - 👨‍💻 I have a good knowledge about ROS (Robot Operating System).
 - 💬 Ask me about my experience with ROS,Python, C Language, Embedded C, or anything related to Robotics or Embedded System.
-- ⚡ Fact: I like to sit at night in a quiet place away from light pollution and look at space.
+- ⚡ Fact : I like to sit at night in a quiet place away from light pollution and look at space.
 
 
 
