@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<!--<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">-->
 
 <h3 align="center">
   Welcome to Abdelrahman Abdallah's profile!
@@ -21,7 +21,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/abdelrahman-abdallah-8b6085224/" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman20Abdallah-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdelrahman-abdallah-8b6085224/" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Abdallah-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
