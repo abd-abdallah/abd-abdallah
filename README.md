@@ -40,6 +40,7 @@
 ![C](https://img.shields.io/badge/-C%20-05122A?style=flat&logo=C)&nbsp;
 ![ROS](https://img.shields.io/badge/-ROS%20-05122A?style=flat&logo=ROS)&nbsp;
 ![eclipse](https://img.shields.io/badge/-eclipse%20-05122A?style=flat&logo=eclipse)&nbsp;
+![proteus](https://img.shields.io/badge/-proteus%20-05122A?style=flat&logo=proteus)&nbsp;
 
 <!--
 
