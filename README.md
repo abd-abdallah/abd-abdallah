@@ -39,6 +39,7 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C%20-05122A?style=flat&logo=C)&nbsp;
 ![ROS](https://img.shields.io/badge/-ROS%20-05122A?style=flat&logo=ROS)&nbsp;
+![eclipse](https://img.shields.io/badge/-eclipse%20-05122A?style=flat&logo=eclipse)&nbsp;
 
 <!--
 
